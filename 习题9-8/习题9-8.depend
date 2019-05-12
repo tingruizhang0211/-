@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:d:\c++zhangtingrui\œ∞Ã‚9-8\main.cpp
+	<iostream>
+
+1557625265 source:d:\c++zhangtingrui\œ∞Ã‚9-8\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1557624422 d:\c++zhangtingrui\œ∞Ã‚9-8\include\date.h
+
